@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<circle cx="32" cy="32" r="30" fill="#0C6B3D"/>
+<circle cx="32" cy="32" r="30" fill="none" stroke="#F1B60D" stroke-width="3"/>
+<text x="32" y="42" font-family="Georgia, serif" font-size="26" fill="#F1B60D"
+  text-anchor="middle" font-weight="bold">GH</text>
+</svg>
